@@ -1,0 +1,31 @@
+_repo: The-Student-s-Companion-to-Latin-Authors_28413
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mills, Thomas Ross
+    birthdate: 1869
+    gutenberg_agent_id: '33320'
+    url: http://www.gutenberg.org/2009/agents/33320
+  - agent_name: Middleton, George
+    birthdate: 1865
+    gutenberg_agent_id: '33322'
+    url: http://www.gutenberg.org/2009/agents/33322
+description: ''
+gutenberg_issued: '2009-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28413'
+  lccn: '32016932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Latin'
+- !lcc 'PA'
+- !lcsh 'Latin literature -- History and criticism'
+title: The Student's Companion to Latin Authors
+url: http://www.gutenberg.org/ebooks/28413
