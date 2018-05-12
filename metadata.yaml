@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33322'
     url: http://www.gutenberg.org/2009/agents/33322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28413#The-Student-s-Companion-to-Latin-Authors
 gutenberg_issued: '2009-03-25'
 gutenberg_type: Text
 identifiers:
